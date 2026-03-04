@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0743273565",
+    "category": "Fiction",
+    "publisher": "Scribner",
+    "publicationYear": 1925,
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "description": "A classic American novel set in the Jazz Age.",
+    "createdAt": "2026-03-05T11:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0061120084",
+    "category": "Fiction",
+    "publisher": "J.B. Lippincott",
+    "publicationYear": 1960,
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "description": "A gripping tale of racial injustice and childhood innocence.",
+    "createdAt": "2026-03-05T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0451524935",
+    "category": "Science Fiction",
+    "publisher": "Secker & Warburg",
+    "publicationYear": 1949,
+    "totalCopies": 6,
+    "availableCopies": 4,
+    "description": "A dystopian novel about totalitarianism and surveillance.",
+    "createdAt": "2026-03-05T11:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "978-0141439518",
+    "category": "Romance",
+    "publisher": "Penguin Classics",
+    "publicationYear": 1813,
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "description": "A romantic novel of manners set in Georgian England.",
+    "createdAt": "2026-03-05T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "978-0316769174",
+    "category": "Fiction",
+    "publisher": "Little, Brown and Company",
+    "publicationYear": 1951,
+    "totalCopies": 4,
+    "availableCopies": 3,
+    "description": "A coming-of-age novel following teenage protagonist Holden Caulfield.",
+    "createdAt": "2026-03-05T12:00:00Z"
+  }
+]
